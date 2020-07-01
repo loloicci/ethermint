@@ -48,5 +48,5 @@ echo -e '\nrun the following command in a different terminal/window to run the R
 echo -e "emintcli rest-server --laddr \"tcp://localhost:8545\" --unlock-key $KEY --chain-id $CHAINID --trace\n"
 
 # Start the node (remove the --pruning=nothing flag if historical queries are not needed)
-emintd start --pruning=nothing --rpc.unsafe --log_level "main:info,state:info,mempool:info" --trace
+# emintd start --pruning=nothing --rpc.unsafe --log_level "main:info,state:info,mempool:info" --trace
 
