@@ -36,4 +36,4 @@ software to seamlessly deploy smart contracts which interact with the rest of th
 
 ## Next {hide}
 
-Learn about Ethermint's [architecture](./architectures.md) {hide}
+Learn about Ethermint's [architecture](./architecture.md) {hide}
